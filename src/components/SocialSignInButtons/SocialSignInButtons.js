@@ -3,15 +3,15 @@ import CustomButton from "../CustomButton";
 
 const SocialSignInButtons = () => {
   const onSignInFacebook = () => {
-    console.warn("onSignInFacebook");
+    alert("onSignInFacebook");
   };
 
   const onSignInGoogle = () => {
-    console.warn("onSignInGoogle");
+    alert("onSignInGoogle");
   };
 
   const onSignInApple = () => {
-    console.warn("onSignInApple");
+    alert("onSignInApple");
   };
 
   return (
